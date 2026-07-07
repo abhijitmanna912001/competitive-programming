@@ -1,0 +1,22 @@
+# Cursor / VS Code
+.vscode/
+
+# Competitive Programming Helper
+.cph/
+
+# Local testing
+input.txt
+output.txt
+
+# macOS
+.DS_Store
+
+# Compiled executables
+*.out
+*.exe
+*.o
+*.obj
+
+# Common executable names on macOS/Linux
+main
+a.out
