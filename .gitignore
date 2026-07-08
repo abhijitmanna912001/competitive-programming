@@ -16,6 +16,7 @@ output.txt
 *.exe
 *.o
 *.obj
+*.bin
 
 # Common executable names on macOS/Linux
 main
