@@ -1,4 +1,4 @@
 CompileFlags:
   Add:
     - -std=gnu++20
-    - -I/Users/abhijitmanna/Personal/CP
+    - -I/Users/abhijitmanna/Personal/competitive-programming
