@@ -3,7 +3,7 @@ using namespace std;
 
 int countStudents(vector<int> &arr, long long pages) {
   int students = 1;
-  long pagesAllocated = 0;
+  long long pagesAllocated = 0;
 
   for (int i = 0; i < arr.size(); i++) {
     if (pagesAllocated + arr[i] <= pages)
